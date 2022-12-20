@@ -6,7 +6,7 @@ Password Rules
 
 The following rules are used to determine the strength of a password:
 
-    Passwords must be at least 7 characters long
+    Passwords must be at least 8 characters long
     Passwords must contain at least 1 lowercase letter, 1 uppercase letter, 1 number and 1 special digit
     Passwords should not contain any common words or phrases
 
